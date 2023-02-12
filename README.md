@@ -1,6 +1,7 @@
 # rendie
 这是 rendie.com 网站
 
+![](https://raw.githubusercontent.com/rendie-com/rendie/main/Screenshot.jpg)
 
 1) 安装 unzip   
 
